@@ -12,7 +12,7 @@ export default function StartupProject() {
   const { isDark } = useContext(StyleContext);
   return (
     <Fade bottom duration={1000} distance="20px">
-      <div className="main" id="projects">
+      {/* <div className="main" id="projects">
         <div>
           <h1 className="skills-heading">{bigProjects.title}</h1>
           <p
@@ -41,7 +41,7 @@ export default function StartupProject() {
             <div className="startup-project-image"></div>
           </div>
         </div>
-      </div>
+      </div> */}
     </Fade>
   );
 }

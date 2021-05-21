@@ -1,6 +1,6 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "saadpasta.github.io",
+  "homepage": "https://ikramhasan-portfolio.web.app/",
+  "name": "ikramhasan-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "react-scripts start",
+    "start": "set PORT=2021 && react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
