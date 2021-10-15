@@ -12,10 +12,10 @@ const greeting = {
   username: "Ikram Hasan",
   title: "Hello everyone, I'm Ikram",
   subTitle: emoji(
-    "An aspiring full stack developer 🚀 with an immense thirst for learning new technologies 👌"
+    "An aspiring engineer 🚀 with an immense thirst for learning new technologies 👌"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1DKX7G5S5RfFr4jTti361ktFeDweyCkOW/view?usp=sharing",
+    "https://drive.google.com/file/d/1fDyNcJTpZihq5FeE5Dae8pQPApkVpiiA/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -28,6 +28,8 @@ const socialMediaLinks = {
   //gitlab: 'https://gitlab.com/saadpasta',
   facebook: "https://www.facebook.com/ihni7",
   twitter: "https://twitter.com/ikramhasandev",
+  fiverr: "https://www.fiverr.com/ikramhasan_dev",
+  android: "https://play.google.com/store/search?q=pub%3AIkram%20Hasan&c=apps",
   //medium: 'https://medium.com/@saadpasta',
   //stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
   // Instagram and Twitter are also supported in the links!
@@ -155,14 +157,23 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Application Frontend Developer",
+      role: "Flutter Instructor",
+      company: "ICT Divsion, Government of Bangladesh",
+      companylogo: require("./assets/images/sdmga.png"),
+      date: "September, 2021 – Present",
+      desc: "Working as a trainer for the Cross Platform App Development Training session organised by the ICT division, Government of Bangladesh",
+      descBullets: [],
+    },
+    {
+      role: "Application Developer",
       company: "NeedIn",
       companylogo: require("./assets/images/needin.png"),
       date: "March, 2020 – Present",
       desc: "NeedIn is a startup specializing in the ecommerce field.",
       descBullets: [
-        "Developed the fronted of the application",
-        "Integrated the MapBox api for Geocding and Reverse Geocoding",
+        "Developed the frontend of the application",
+        "Integrated the MapBox api (Now using Google Maps) for Geocding and Reverse Geocoding",
+        "Used a nodejs backend with mongodb as database",
       ],
     },
     {
@@ -256,6 +267,26 @@ const achievementSection = {
         {
           name: "Result Link",
           url: "https://www.facebook.com/ieeebracuCS/photos/a.458626104924976/887282245392691/",
+        },
+      ],
+    },
+    {
+      title: "NSU YES! Entrepret Season 2 Finalist",
+      subtitle: "Finalist of Entrepret Season 2 organized by NSU YES!",
+      image: require("./assets/images/nsu_yes_s2.jpg"),
+      footerLink: [
+        // {
+        //   name: "Certification",
+        //   url: "https://drive.google.com/file/d/1igmbWY-ao56j0vUWIA6v3UD9YP9yavTF/view?usp=sharing",
+        // },
+        //{
+        //  name: 'Award Letter',
+        //  url:
+        //    'https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing',
+        //},
+        {
+          name: "Result Link",
+          url: "https://www.facebook.com/nsuyes/photos/pcb.10159377599900768/10159377577500768",
         },
       ],
     },

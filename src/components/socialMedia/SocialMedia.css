@@ -34,6 +34,10 @@
   background-color: #0e76a8;
 }
 
+.fiverr i {
+  background-color: #7bf6aa;
+}
+
 .github i {
   background-color: #333;
 }
@@ -44,6 +48,10 @@
 
 .google i {
   background-color: #ea4335;
+}
+
+.android i {
+  background-color: #79ff0a;
 }
 
 .twitter i {
@@ -67,11 +75,13 @@
 .google i:hover,
 .gitlab i:hover,
 .github i:hover,
+.android i:hover,
 .linkedin i:hover,
 .facebook i:hover,
 .instagram i:hover,
+.fiverr i:hover,
 .stack-overflow i:hover,
-.medium i:hover{
+.medium i:hover {
   background-color: black;
 }
 
