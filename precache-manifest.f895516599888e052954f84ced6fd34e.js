@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa8d958f02b5e29c344468310ed36a80",
+    "revision": "835496c5a477b59e3bde46b5afd75f1b",
     "url": "/index.html"
   },
   {
-    "revision": "32ec591c906b74d7f9b2",
+    "revision": "2b329791e42b70ed7df3",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "383b93f199151e95eb50",
+    "revision": "bdc90586271d202f69c5",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "e313b8b0251238d4e748",
-    "url": "/static/css/main.af23b6d0.chunk.css"
+    "revision": "45ddedf667de1a62c6e7",
+    "url": "/static/css/main.093db001.chunk.css"
   },
   {
-    "revision": "3c011b2be6618c082a56",
-    "url": "/static/js/2.ed2ffb5f.chunk.js"
+    "revision": "87f0a73c5e62b07ebd40",
+    "url": "/static/js/2.db4c65d9.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.ed2ffb5f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.db4c65d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32ec591c906b74d7f9b2",
-    "url": "/static/js/3.141863e4.chunk.js"
+    "revision": "2b329791e42b70ed7df3",
+    "url": "/static/js/3.c34e5869.chunk.js"
   },
   {
-    "revision": "383b93f199151e95eb50",
-    "url": "/static/js/4.02d49f0e.chunk.js"
+    "revision": "bdc90586271d202f69c5",
+    "url": "/static/js/4.4de55e11.chunk.js"
   },
   {
-    "revision": "e313b8b0251238d4e748",
-    "url": "/static/js/main.bcd143fb.chunk.js"
+    "revision": "45ddedf667de1a62c6e7",
+    "url": "/static/js/main.ca06fd68.chunk.js"
   },
   {
-    "revision": "3a26b75971fd4da449a7",
-    "url": "/static/js/runtime-main.7e0982b0.js"
+    "revision": "7726eaffa8978b74e00d",
+    "url": "/static/js/runtime-main.686eff29.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -84,8 +84,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
+    "revision": "fda82dd4517a435f42fe362b88df3eff",
+    "url": "/static/media/nsu_yes_s2.fda82dd4.jpg"
+  },
+  {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
+  },
+  {
+    "revision": "979bda4233f30c18ea72c30d45c97b92",
+    "url": "/static/media/sdmga.979bda42.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
