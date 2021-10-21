@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "835496c5a477b59e3bde46b5afd75f1b",
+    "revision": "175e45d6a9d189f5e002370dbd770c24",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "45ddedf667de1a62c6e7",
+    "revision": "18db44d6e05bb36ade57",
     "url": "/static/css/main.093db001.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.4de55e11.chunk.js"
   },
   {
-    "revision": "45ddedf667de1a62c6e7",
-    "url": "/static/js/main.ca06fd68.chunk.js"
+    "revision": "18db44d6e05bb36ade57",
+    "url": "/static/js/main.4ed6b016.chunk.js"
   },
   {
     "revision": "7726eaffa8978b74e00d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "0899e85183bb72bf35c32fbfee067d0d",
-    "url": "/static/media/bracu_logo_white.0899e851.png"
+    "revision": "601e3753a2c759d9aaf5f5681a9cca31",
+    "url": "/static/media/bracu_logo_white.601e3753.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -60,32 +60,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "14e5d4dfbcf453685d931227a5a38756",
-    "url": "/static/media/drmc.14e5d4df.png"
+    "revision": "f2bc921ccbef42dd352eaa4e818d6f41",
+    "url": "/static/media/drmc.f2bc921c.png"
   },
   {
-    "revision": "83521bf7823eb5e3c7428973efeab825",
-    "url": "/static/media/ieee_bracu.83521bf7.jpg"
+    "revision": "e25bff44cfb73752c1ac15eb1c0e0148",
+    "url": "/static/media/ieee_bracu_600.e25bff44.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "345652f0bdcead167d7221881c8e9f14",
-    "url": "/static/media/needin.345652f0.png"
-  },
-  {
-    "revision": "9e526b8a62823e36bf58a4a042bd232e",
-    "url": "/static/media/nerdy_andaa.9e526b8a.png"
+    "revision": "ec70d47083462b6aff0110926f3458c2",
+    "url": "/static/media/nerdy_andaa.ec70d470.png"
   },
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "fda82dd4517a435f42fe362b88df3eff",
-    "url": "/static/media/nsu_yes_s2.fda82dd4.jpg"
+    "revision": "9ef54b2c721927afaf901b9ea90f30df",
+    "url": "/static/media/nsu_yes_s2_600.9ef54b2c.jpg"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
@@ -104,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "63cdc61b09139f687aaa11058bdaee5b",
-    "url": "/static/media/techTussle.63cdc61b.png"
+    "revision": "0e1a16fdad1fc117f6336d95129007da",
+    "url": "/static/media/techTussle.0e1a16fd.png"
   }
 ]);

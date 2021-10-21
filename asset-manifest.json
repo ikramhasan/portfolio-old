@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.093db001.chunk.css",
-    "main.js": "/static/js/main.ca06fd68.chunk.js",
-    "main.js.map": "/static/js/main.ca06fd68.chunk.js.map",
+    "main.js": "/static/js/main.4ed6b016.chunk.js",
+    "main.js.map": "/static/js/main.4ed6b016.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.686eff29.js",
     "runtime-main.js.map": "/static/js/runtime-main.686eff29.js.map",
     "static/js/2.db4c65d9.chunk.js": "/static/js/2.db4c65d9.chunk.js",
@@ -14,33 +14,32 @@
     "static/js/4.4de55e11.chunk.js": "/static/js/4.4de55e11.chunk.js",
     "static/js/4.4de55e11.chunk.js.map": "/static/js/4.4de55e11.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f895516599888e052954f84ced6fd34e.js": "/precache-manifest.f895516599888e052954f84ced6fd34e.js",
+    "precache-manifest.1871a6fac8917539e1df2ef9e243ba7b.js": "/precache-manifest.1871a6fac8917539e1df2ef9e243ba7b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
     "static/css/main.093db001.chunk.css.map": "/static/css/main.093db001.chunk.css.map",
     "static/js/2.db4c65d9.chunk.js.LICENSE.txt": "/static/js/2.db4c65d9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/bracu_logo_white.png": "/static/media/bracu_logo_white.0899e851.png",
+    "static/media/bracu_logo_white.png": "/static/media/bracu_logo_white.601e3753.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/drmc.png": "/static/media/drmc.14e5d4df.png",
-    "static/media/ieee_bracu.jpg": "/static/media/ieee_bracu.83521bf7.jpg",
+    "static/media/drmc.png": "/static/media/drmc.f2bc921c.png",
+    "static/media/ieee_bracu_600.jpg": "/static/media/ieee_bracu_600.e25bff44.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/needin.png": "/static/media/needin.345652f0.png",
-    "static/media/nerdy_andaa.png": "/static/media/nerdy_andaa.9e526b8a.png",
+    "static/media/nerdy_andaa.png": "/static/media/nerdy_andaa.ec70d470.png",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
-    "static/media/nsu_yes_s2.jpg": "/static/media/nsu_yes_s2.fda82dd4.jpg",
+    "static/media/nsu_yes_s2_600.jpg": "/static/media/nsu_yes_s2_600.9ef54b2c.jpg",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/sdmga.png": "/static/media/sdmga.979bda42.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg",
-    "static/media/techTussle.png": "/static/media/techTussle.63cdc61b.png"
+    "static/media/techTussle.png": "/static/media/techTussle.0e1a16fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.686eff29.js",
     "static/js/2.db4c65d9.chunk.js",
     "static/css/main.093db001.chunk.css",
-    "static/js/main.ca06fd68.chunk.js"
+    "static/js/main.4ed6b016.chunk.js"
   ]
 }
