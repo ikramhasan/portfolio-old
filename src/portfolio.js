@@ -121,7 +121,7 @@ const educationInfo = {
     {
       schoolName: "Dhaka Residential Model College",
       logo: require("./assets/images/drmc.png"),
-      subHeader: "Intermidiate",
+      subHeader: "HSC",
       duration: "January 2017 - December 2018",
       //desc:
       //  'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
