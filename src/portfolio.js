@@ -232,7 +232,7 @@ const achievementSection = {
       title: "IEEE Computer Society App Development Contest Winner",
       subtitle:
         "Champion of the 2020 flagship application development contest organized by IEEE Computer Scoiety",
-      image: require("./assets/images/ieee_bracu.jpg"),
+      image: require("./assets/images/ieee_bracu_600.jpg"),
       footerLink: [
         {
           name: "Certification",
@@ -273,7 +273,7 @@ const achievementSection = {
     {
       title: "NSU YES! Entrepret Season 2 Finalist",
       subtitle: "Finalist of Entrepret Season 2 organized by NSU YES!",
-      image: require("./assets/images/nsu_yes_s2.jpg"),
+      image: require("./assets/images/nsu_yes_s2_600.jpg"),
       footerLink: [
         // {
         //   name: "Certification",
