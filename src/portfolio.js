@@ -157,12 +157,27 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior Flutter Developer",
+      company: "Ricciwawa, HongKong",
+      companylogo: require("./assets/images/ricciwawa.png"),
+      date: "October, 2021 – Present",
+      desc: "Ricciwawa believes learning should be a journey filled with joy and laughter.",
+      descBullets: [
+        "Optimized the app and turned the sluggish 35 fps screens into smooth 60 fps.",
+        "Integrated a machine learning based recommendation engine to the app.",
+      ],
+    },
+    {
       role: "Flutter Instructor",
       company: "ICT Divsion, Government of Bangladesh",
       companylogo: require("./assets/images/sdmga.png"),
-      date: "September, 2021 – Present",
-      desc: "Working as a trainer for the Cross Platform App Development Training session organised by the ICT division, Government of Bangladesh",
-      descBullets: [],
+      date: "September, 2021 – January, 2022",
+      desc: "Cross Platform App Development Training session organized by the ICT division, Government of Bangladesh for celebrating Mujib100.",
+      descBullets: [
+        "Taught more than 250 students.",
+        "Provided hands on training.",
+        "Many students have their apps launched on play store after 3 months of training."
+      ],
     },
     {
       role: "Application Developer",
