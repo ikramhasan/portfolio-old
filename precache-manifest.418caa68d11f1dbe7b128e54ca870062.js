@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4d8c1f41a483a25dc5226ed370d5125",
+    "revision": "349e958a5441ac8cd8e85d0b0c65a929",
     "url": "/index.html"
   },
   {
-    "revision": "2b329791e42b70ed7df3",
+    "revision": "8f4fa35c7d9ef22e73ca",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "bdc90586271d202f69c5",
+    "revision": "c1356d19026033191e6a",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "83fc3feebbf4f273342a",
+    "revision": "3a883841f7b438f741d0",
     "url": "/static/css/main.093db001.chunk.css"
   },
   {
-    "revision": "87f0a73c5e62b07ebd40",
-    "url": "/static/js/2.db4c65d9.chunk.js"
+    "revision": "b6b47a974267e94577f2",
+    "url": "/static/js/2.e49cbb46.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.db4c65d9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e49cbb46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b329791e42b70ed7df3",
-    "url": "/static/js/3.c34e5869.chunk.js"
+    "revision": "8f4fa35c7d9ef22e73ca",
+    "url": "/static/js/3.baf867f2.chunk.js"
   },
   {
-    "revision": "bdc90586271d202f69c5",
-    "url": "/static/js/4.4de55e11.chunk.js"
+    "revision": "c1356d19026033191e6a",
+    "url": "/static/js/4.abc9ba09.chunk.js"
   },
   {
-    "revision": "83fc3feebbf4f273342a",
-    "url": "/static/js/main.e51be96a.chunk.js"
+    "revision": "3a883841f7b438f741d0",
+    "url": "/static/js/main.20ed130b.chunk.js"
   },
   {
-    "revision": "7726eaffa8978b74e00d",
-    "url": "/static/js/runtime-main.686eff29.js"
+    "revision": "24bb4b4520fc459986d7",
+    "url": "/static/js/runtime-main.928c0cdb.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ef54b2c721927afaf901b9ea90f30df",
     "url": "/static/media/nsu_yes_s2_600.9ef54b2c.jpg"
+  },
+  {
+    "revision": "3967ef9f14e8f2269722cc4cac96f19b",
+    "url": "/static/media/ricciwawa.3967ef9f.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
