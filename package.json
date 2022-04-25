@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "set PORT=2021 && react-scripts start",
+    "start": "set PORT=2022 && react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",

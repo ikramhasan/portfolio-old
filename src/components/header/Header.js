@@ -70,6 +70,9 @@ function Header() {
             </li>
           )}
           <li>
+            <a href="https://blog.ikramhasan.com/" target="_blank">Blog</a>
+          </li>
+          <li>
             <a href="#contact">Contact Me</a>
           </li>
           <li>
