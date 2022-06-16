@@ -256,7 +256,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "IEEE Computer Society App Development Contest Winner",
+      title: "IEEE Computer Society App Development Contest Champion",
       subtitle:
         "Champion of the 2020 flagship application development contest organized by IEEE Computer Scoiety",
       image: require("./assets/images/ieee_bracu_600.jpg"),
@@ -294,6 +294,38 @@ const achievementSection = {
         {
           name: "Result Link",
           url: "https://www.facebook.com/ieeebracuCS/photos/a.458626104924976/887282245392691/",
+        },
+      ],
+    },
+    {
+      title: "Social Entrepreneurship Challenge 2022",
+      subtitle:
+        "My startup stood 3rd among other startups worldwide on Social Entrepreneurship Challenge 2022.",
+      image: require("./assets/images/sec2022.png"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/17BerAxLbhwWAeZ3OkTVQSwBWnK2C_pwP/view?usp=sharing",
+        },
+        {
+          name: "Result Link",
+          url: "https://www.facebook.com/Vubsocialentrepreneurship/photos/a.1367425286662768/7605321502873084/",
+        },
+      ],
+    },
+    {
+      title: "Blockchain Olympiad Bangladesh 2022 Finalist, People's Choice Award",
+      subtitle:
+        "My team - Let There Be Light became one of the finalists of Blockchain Olympiad Bangladesh and won the People's Choice Award for day 3.",
+      image: require("./assets/images/bcolbd.jpg"),
+      footerLink: [
+        // {
+        //   name: "Certification",
+        //   url: "https://drive.google.com/file/d/17BerAxLbhwWAeZ3OkTVQSwBWnK2C_pwP/view?usp=sharing",
+        // },
+        {
+          name: "Result Link",
+          url: "https://bcolbd.org/uploads/pdf/BCOLBD%202022%20Finalist%20Team%20Student%20Category_Published.pdf",
         },
       ],
     },
