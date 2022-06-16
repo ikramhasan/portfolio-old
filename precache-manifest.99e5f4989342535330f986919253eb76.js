@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc12d05942061462baabe718184cec41",
+    "revision": "c6cc8a2c1b1628bd365eebbd3ad9d71d",
     "url": "/index.html"
   },
   {
-    "revision": "8f4fa35c7d9ef22e73ca",
+    "revision": "110b17de4c95b7e755c0",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "c1356d19026033191e6a",
+    "revision": "8741642569d2fbfb0bce",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "64d350d432473ee51613",
+    "revision": "6df15bf657da3c84ee30",
     "url": "/static/css/main.093db001.chunk.css"
   },
   {
-    "revision": "b6b47a974267e94577f2",
-    "url": "/static/js/2.e49cbb46.chunk.js"
+    "revision": "eea449487f48709f2138",
+    "url": "/static/js/2.71ac1c46.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.e49cbb46.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.71ac1c46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f4fa35c7d9ef22e73ca",
-    "url": "/static/js/3.baf867f2.chunk.js"
+    "revision": "110b17de4c95b7e755c0",
+    "url": "/static/js/3.f9f277b6.chunk.js"
   },
   {
-    "revision": "c1356d19026033191e6a",
-    "url": "/static/js/4.abc9ba09.chunk.js"
+    "revision": "8741642569d2fbfb0bce",
+    "url": "/static/js/4.dc896c6a.chunk.js"
   },
   {
-    "revision": "64d350d432473ee51613",
-    "url": "/static/js/main.62daffdc.chunk.js"
+    "revision": "6df15bf657da3c84ee30",
+    "url": "/static/js/main.550c9472.chunk.js"
   },
   {
-    "revision": "24bb4b4520fc459986d7",
-    "url": "/static/js/runtime-main.928c0cdb.js"
+    "revision": "0fd5c808063b418638bd",
+    "url": "/static/js/runtime-main.9c547498.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "e6fe0c9f0f9649bfbc85f0743ddc443f",
+    "url": "/static/media/babycare.e6fe0c9f.jpeg"
+  },
+  {
+    "revision": "f45bf3386b2379788b1225804c01c62a",
+    "url": "/static/media/bcolbd.f45bf338.jpg"
   },
   {
     "revision": "601e3753a2c759d9aaf5f5681a9cca31",
@@ -94,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "979bda4233f30c18ea72c30d45c97b92",
     "url": "/static/media/sdmga.979bda42.png"
+  },
+  {
+    "revision": "4e0f0e732460cec42c6674c852ca5590",
+    "url": "/static/media/sec2022.4e0f0e73.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
