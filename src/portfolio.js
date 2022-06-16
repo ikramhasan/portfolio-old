@@ -362,19 +362,19 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://blog.ikramhasan.com/how-i-made-a-tictactoe-game-that-you-cannot-beat",
+      title: "How I Made a TicTacToe Game That You Cannot Beat 🙅‍♂️",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
+        "A cross-platform app development framework + a 30 lines algorithm = Impossible Ai 😎",
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://blog.ikramhasan.com/best-vscode-settings-for-flutter-developers",
+      title: "BEST VSCode Settings for Flutter Developers 🚀",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
+        "Settings that will help you in your app development journey. Enable these settings and take your flutter productivity to the next level.",
     },
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
