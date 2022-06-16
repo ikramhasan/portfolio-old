@@ -168,6 +168,18 @@ const workExperiences = {
       ],
     },
     {
+      role: "Application Developer",
+      company: "Babycare",
+      companylogo: require("./assets/images/babycare.jpeg"),
+      date: "November, 2021 – June, 2022",
+      desc: "Babycare is the first ever Bangladeshi website specialized in baby care products",
+      descBullets: [
+        "Implementer a payment gateway.",
+        "Added automatic anonymous crash reporting.",
+        "Followed a domain driven design.",
+      ],
+    },
+    {
       role: "Flutter Instructor",
       company: "ICT Divsion, Government of Bangladesh",
       companylogo: require("./assets/images/sdmga.png"),
