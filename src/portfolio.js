@@ -23,7 +23,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ikramhasan",
-  linkedin: "https://www.linkedin.com/in/ikram-hasan-8a2b8a205/",
+  linkedin: "https://www.linkedin.com/in/ikramhasan/",
   gmail: "ikramhasan.dev@gmail.com",
   //gitlab: 'https://gitlab.com/saadpasta',
   facebook: "https://www.facebook.com/ihni7",
@@ -188,7 +188,7 @@ const workExperiences = {
       descBullets: [
         "Taught more than 250 students.",
         "Provided hands on training.",
-        "Many students have their apps launched on play store after 3 months of training."
+        "Many students have their apps launched on play store after 3 months of training.",
       ],
     },
     {
@@ -199,7 +199,7 @@ const workExperiences = {
       desc: "NeedIn is a startup specializing in the ecommerce field.",
       descBullets: [
         "Developed the frontend of the application",
-        "Integrated the MapBox api (Now using Google Maps) for Geocding and Reverse Geocoding",
+        "Integrated the MapBox api (Now using Google Maps) for Geocoding and Reverse Geocoding",
         "Used a nodejs backend with mongodb as database",
       ],
     },
@@ -258,7 +258,7 @@ const achievementSection = {
     {
       title: "IEEE Computer Society App Development Contest Champion",
       subtitle:
-        "Champion of the 2020 flagship application development contest organized by IEEE Computer Scoiety",
+        "Champion of the 2020 flagship application development contest organized by IEEE Computer Society",
       image: require("./assets/images/ieee_bracu_600.jpg"),
       footerLink: [
         {
@@ -314,7 +314,8 @@ const achievementSection = {
       ],
     },
     {
-      title: "Blockchain Olympiad Bangladesh 2022 Finalist, People's Choice Award",
+      title:
+        "Blockchain Olympiad Bangladesh 2022 Finalist, People's Choice Award",
       subtitle:
         "My team - Let There Be Light became one of the finalists of Blockchain Olympiad Bangladesh and won the People's Choice Award for day 3.",
       image: require("./assets/images/bcolbd.jpg"),
